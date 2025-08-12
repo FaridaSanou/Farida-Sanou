@@ -1,5 +1,4 @@
 HC1T6 - Tâche 6 : Utilisation de signatures de type
-Voici la présentation complète de ton exemple sur l’**utilisation des signatures de type** en Haskell, avec :
 
 ---
 
