@@ -1,5 +1,5 @@
 HC1T3 - Tâche 3 : Vérifier si un nombre est supérieur à 18
-Voici une **présentation structurée** de ton exemple Haskell avec :
+
 
 
 ---
