@@ -1,5 +1,6 @@
 HC2T3 - Tâche 3 : Variables d'économie
 
+
 En Haskell, **toutes les variables sont immuables**, c’est-à-dire qu’une fois assignée, leur valeur **ne peut pas changer**.
 
 ---
