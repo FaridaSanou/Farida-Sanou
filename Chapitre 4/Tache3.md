@@ -21,7 +21,7 @@ gradeComment note
 
 ---
 
- 💬 **Explications ligne par ligne**
+  **Explications **
 
 1. **`gradeComment :: Int -> String`**
    → La fonction prend un entier (`Int`) et renvoie une chaîne (`String`).
@@ -46,6 +46,4 @@ gradeComment note
 
 ```
 
----
 
-Souhaites-tu que je t’ajoute une fonction `main` pour que le programme demande la note à l’utilisateur directement dans le terminal ?
